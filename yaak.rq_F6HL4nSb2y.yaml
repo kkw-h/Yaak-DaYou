@@ -1,0 +1,20 @@
+type: http_request
+model: http_request
+id: rq_F6HL4nSb2y
+createdAt: 2025-03-07T01:48:09.684713
+updatedAt: 2025-03-07T01:48:46.098941
+workspaceId: wk_dhuQywHFnp
+folderId: fl_KfdVJcNwvQ
+authentication:
+  disabled: false
+  token: HLKMvzLiDsj3Pthu_2VoENKOFgg6RC5W5EEvzMoSBT0.S49Q3mVhu1E9J_r8oQsbJ63g8gmsh2zlIqqZBGY_NJE
+authenticationType: bearer
+body: {}
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: 全部
+sortPriority: -1741312000000.0
+url: ${[ Host ]}/event/gather
+urlParameters: []
