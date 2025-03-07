@@ -1,0 +1,19 @@
+type: http_request
+model: http_request
+id: rq_mXyiapyQWb
+createdAt: 2025-03-07T01:56:25.828942
+updatedAt: 2025-03-07T01:57:20.793973
+workspaceId: wk_dhuQywHFnp
+folderId: fl_YAVWaQcCxG
+authentication:
+  token: ${[ Token ]}
+authenticationType: bearer
+body: {}
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: 获取登录用户信息
+sortPriority: -1741312000000.0
+url: ${[ Host ]}/user/login_info
+urlParameters: []
