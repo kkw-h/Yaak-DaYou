@@ -1,0 +1,10 @@
+type: workspace
+model: workspace
+id: wk_dhuQywHFnp
+createdAt: 2025-03-07T01:43:54.854331
+updatedAt: 2025-03-07T01:43:54.854332
+name: DaYou
+description: ''
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0

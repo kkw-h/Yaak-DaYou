@@ -1,0 +1,27 @@
+type: http_request
+model: http_request
+id: rq_j48tYNSHfE
+createdAt: 2025-03-07T01:45:19.230526
+updatedAt: 2025-03-07T01:45:57.682840
+workspaceId: wk_dhuQywHFnp
+folderId: fl_zSCRz6QJ86
+authentication: {}
+authenticationType: null
+body:
+  text: |-
+    {
+      "phone_number": "13291875944",
+      "password": "11223344"
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: bvGzGXEMfS
+method: PUT
+name: 手机号密码登录
+sortPriority: -1741312000000.0
+url: ${[ Host ]}/auth/signIn
+urlParameters: []
